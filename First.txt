@@ -1,4 +1,8 @@
 Hi
 Eat my shorts!
+<<<<<<< HEAD
 Ants in my pants.
 Hello Everyone! Good News
+=======
+Ants in my pants.
+>>>>>>> main
